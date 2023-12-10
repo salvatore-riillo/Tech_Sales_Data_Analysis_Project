@@ -1,6 +1,6 @@
 # Tech Sales Data Analysis
 
-This project focuses on analyzing technology sales data to uncover insights and trends. The core analysis is conducted in Google Colab Notebook, utilizing Python for data manipulation and visualization.
+This project focuses on analyzing sales data from a given tech items dataset, to uncover insights and trends. The core analysis is conducted in Google Colab Notebook, utilizing Python for data manipulation and visualization.
 
 ## Key Components:
 - **Tech_Sales_Data_Analysis_Notebook.ipynb**: Main Colab Notebook containing the analysis.
