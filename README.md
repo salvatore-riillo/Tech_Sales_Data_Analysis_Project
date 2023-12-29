@@ -1,4 +1,4 @@
-# Tech Sales Data Analysis
+# Tech Sales Data Analysis Project (Python)
 
 This project focuses on analyzing sales data from a given tech items dataset, to uncover insights and trends. The core analysis is conducted in Google Colab Notebook, utilizing Python for data manipulation and visualization.
 
